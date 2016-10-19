@@ -1,0 +1,49 @@
+
+body{
+    background-color:hsl(0, 100%, 90%);
+  font-size:17px;
+  
+}
+#introduction{
+  font-size: 18px;
+    margin-bottom: 40px;
+  margin-left: 10px;
+}
+ div figure  p {
+   
+   text-decoration:underline;
+ text-align:center;
+   color:blue;
+}
+
+h2,h1{
+  font-size: 22px;
+   background-color:#F0F0F0;
+  
+}
+
+h1{
+  text-align:center;
+  text-decoration:underline;
+  color:red;
+   font-size: 30px;
+}
+
+
+
+ .images,p{
+  
+  
+    margin-left: 150px;
+ 
+}
+
+
+
+div figure { display: block;float: left;margin-right: 5px;}
+
+.images{
+  height:200px; width:200px;
+}
+  
+  

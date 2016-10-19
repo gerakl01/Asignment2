@@ -1,0 +1,54 @@
+body{
+  background-colour:white;
+      color: #404040;
+  font-size: 11px;
+  font-family: Georgia,Garamond,serif;
+}
+h1,h2{
+   text-decoration: underline;
+   color:#A4A400;
+   background-color:#F0F0F0;
+  font-family:'Lucida Sans Unicode', Helvetica, Arial,sans-serif; 
+}
+h1{
+   font-weight: bold;
+  font-size: 22px;
+  text-align:center;
+
+}
+h2{
+ 
+   font-weight: normal;
+  font-size: 18px;
+  text-align:left;
+ text-decoration: underline;
+ 
+}
+
+pre{
+  font-family: monospace;
+}
+
+
+ul li abbr{
+ border-bottom: 1px dotted #999;
+  
+     text-decoration: underline ;
+  
+}
+
+#user li{
+  background:#FFFFA8;
+  list-style:none;
+  font-style: italic;
+}
+.white{
+ background:white;
+  
+}
+.border{
+  border-bottom:1px solid black;
+}
+a{
+  color:#A4A400;
+}
